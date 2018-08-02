@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\bin\Debug\SnakeConsoleApplication.exe.config
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\bin\Debug\SnakeConsoleApplication.exe
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\bin\Debug\SnakeConsoleApplication.pdb
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\obj\Debug\SnakeConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\obj\Debug\SnakeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\obj\Debug\SnakeConsoleApplication.exe
+C:\Users\Ronan\source\repos\SnakeConsoleApplication\SnakeConsoleApplication\obj\Debug\SnakeConsoleApplication.pdb

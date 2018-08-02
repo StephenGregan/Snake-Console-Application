@@ -31,7 +31,7 @@ namespace SnakeConsoleApplication
                 int delay = 100;
                 string direction = "right";
 
-                int snakeLength = 0;
+                int snakeLength = 8;
                 Random random = new Random();
 
                 int score = 0;
